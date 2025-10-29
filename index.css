@@ -28,7 +28,7 @@ div {
   display: flex;
   border: 10px solid white;
   justify-content: center;
-  background: url(./transparent_white.png);
+  background: url(./images/transparent_white.png);
 }
 .Box,
 .block {
@@ -86,4 +86,15 @@ footer {
   background-color: rgb(163, 33, 33);
   font-weight: bold;
   color: white;
+}
+h2 {
+  color: gray;
+font-family: helvetica, arial, Helvetica, sans-serif;
+font-size: large;
+
+}
+h6 {
+  color: gray;
+  font-family: helvetica, arial, Helvetica, sans-serif;
+  font-size: medium;
 }
