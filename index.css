@@ -13,6 +13,7 @@ div {
   width: 600px;
   padding: 20px;
   margin: 20px;
+  border-radius: 90px;
 }
 .Box {
   border: 10px solid black;
@@ -51,6 +52,7 @@ form {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border-radius: 90px;
 }
 
 label {
@@ -88,13 +90,14 @@ footer {
   color: white;
 }
 h2 {
-  color: gray;
-font-family: helvetica, arial, Helvetica, sans-serif;
-font-size: large;
-
+  color: rgb(28, 23, 23);
+  font-size: 2rem;
+  font-family: helvetica, arial, Helvetica, sans-serif;
+  font-weight: lighter;
 }
 h6 {
-  color: gray;
+  color: rgb(31, 27, 27);
+  font-size: 1rem;
   font-family: helvetica, arial, Helvetica, sans-serif;
-  font-size: medium;
+  font-weight: lighter;
 }
